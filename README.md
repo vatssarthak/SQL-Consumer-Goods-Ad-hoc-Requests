@@ -20,59 +20,59 @@ The target audience of this dashboard is top-level management - hence want to cr
 Quick Overview : 
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%201.png'>
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%201.png' width="800">
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%202.png' >
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%202.png' width="800" >
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%203.png' >
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%203.png' width="800">
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%204.png' >
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%204.png' width="800">
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%205.png' >
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%205.png' width="800" >
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%206.png' >
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%206.png' width="800">
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%207.png' >
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%207.png' width="800">
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%208.png' >
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%208.png'width="800" >
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%209.png' >
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%209.png' width="800">
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2010.png' >
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2010.png' width="800">
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2011.png' >
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2011.png' width="800">
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2012.png' >
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2012.png' width="800">
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2013.png' >
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2013.png' width="800">
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2014.png' >
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2014.png' width="800">
 </p>
 
 🌐 **Tech Toolbox**:
