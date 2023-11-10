@@ -19,4 +19,77 @@ The target audience of this dashboard is top-level management - hence want to cr
 
 Quick Overview : 
 
+<p align="center">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%201.png' width="600">
+</p>
 
+<p align="center">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%202.png' width="600">
+</p>
+
+<p align="center">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%203.png' width="600">
+</p>
+
+<p align="center">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%204.png' width="600">
+</p>
+
+<p align="center">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%205.png' width="600">
+</p>
+
+<p align="center">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%206.png' width="600">
+</p>
+
+<p align="center">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%207.png' width="600">
+</p>
+
+<p align="center">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%208.png' width="600">
+</p>
+
+<p align="center">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%209.png' width="600">
+</p>
+
+<p align="center">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2010.png' width="600">
+</p>
+
+<p align="center">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2011.png' width="600">
+</p>
+
+<p align="center">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2012.png' width="600">
+</p>
+
+<p align="center">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2013.png' width="600">
+</p>
+
+<p align="center">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2014.png' width="600">
+</p>
+
+🌐 **Tech Toolbox**:
+
+**MySQL**: Mastered Joins, CTEs, Subqueries, Window functions.
+
+**PowerBI**: Analyzed data using DAX, crafted dynamic visualizations.
+
+**Canva & Powerpoint**: Designed presentations, edited images.
+
+🌟 **Insights** **Unveiled:**
+
+**Identified key metrics:** Gross Profit, Contribution %, Overall Amount Sold, Average Gross Sales, Manufacturing Cost.
+
+**Proposed strategic solutions:** Memberships, gift certificates, bundled deals, student discounts.
+
+🎓 **Learnings** **Galore:**
+
+Grasped vital concepts like CTEs, window functions, and joins.
+Explored creative tools like Canva and dabbled in video editing.
