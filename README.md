@@ -24,55 +24,55 @@ Quick Overview :
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%202.png' width="600">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%202.png' >
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%203.png' width="600">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%203.png' >
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%204.png' width="600">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%204.png' >
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%205.png' width="600">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%205.png' >
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%206.png' width="600">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%206.png' >
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%207.png' width="600">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%207.png' >
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%208.png' width="600">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%208.png' >
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%209.png' width="600">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%209.png' >
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2010.png' width="600">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2010.png' >
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2011.png' width="600">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2011.png' >
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2012.png' width="600">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2012.png' >
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2013.png' width="600">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2013.png' >
 </p>
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2014.png' width="600">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%2014.png' >
 </p>
 
 🌐 **Tech Toolbox**:
