@@ -9,7 +9,7 @@ SELECT distinct market FROM gdb023.dim_customer where customer like "%Atliq Excl
 # select view_1.product, view_1.gross_price_2020, view_2.gross_price_2021, round((view_2.gross_price_2021-view_1.gross_price_2020)*100/view_1.gross_price_2020,2) as Pct_inc from view_1 join view_2 on view_1.product=view_2.product;
 
 WITH X AS (select count(distinct product_code) as unique_product_2020 from fact_sales_monthly where fiscal_year=2020),
-Y as (select count(distinct product_code) as unique_product_2021 from fact_sales_monthly where fiscal_year=2021)
+Y as (select count(distinct product_code) as unique_product_2021 from fact_sales_monthly where fiscal_year=2021) 
 select X.unique_product_2020, Y.unique_product_2021, round((Y.unique_product_2021-X.unique_product_2020)*100/X.unique_product_2020,2) as Pct_inc from X,Y;
 
 # ----------------------------------------------------------------------------------------------------------------------- #
