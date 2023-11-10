@@ -20,7 +20,7 @@ The target audience of this dashboard is top-level management - hence want to cr
 Quick Overview : 
 
 <p align="center">
-    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%201.png' width="600">
+    <img src='https://github.com/vatssarthak/SQL-Consumer-Goods-Ad-hoc-Requests/blob/main/Resources/Screenshot%201.png'>
 </p>
 
 <p align="center">
