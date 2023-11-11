@@ -1,4 +1,5 @@
 # AtliQ Hardware
+Link to [presentation Video](https://youtu.be/_5KR7y0NbJ0)
 
 Atliq Hardware : A financial and sales analysis
 Challenge
